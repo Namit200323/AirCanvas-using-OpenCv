@@ -39,13 +39,6 @@ python AirCanvas.py
 
 The application uses the Mediapipe library to detect hand landmarks from the webcam feed. Based on the position of specific landmarks (e.g., thumb and forefinger), it determines whether to draw lines or change colors on the canvas.
 
-## Demo
-
-![Hand Gesture Paint Demo](demo.png)
-
 ## Contributing
-
-This project was contributed to by Siddharth Maithani ([Siddharth Maithani](https://github.com/SidM24)). 
-
 Contributions are welcome! If you have any ideas for improvements or bug fixes, feel free to open an issue or submit a pull request.
 
