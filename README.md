@@ -18,12 +18,7 @@ Hand Gesture Paint is a simple Python application that allows you to paint on a 
 
 ## Installation
 
-1. Clone the repository:
-```python
-git clone https://github.com/yourusername/hand-gesture-paint.git
-```
-
-2. Install the required Python packages:
+ Install the required Python packages:
 
 ```python
 pip install opencv-python numpy mediapipe
